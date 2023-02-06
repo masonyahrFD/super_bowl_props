@@ -130,3 +130,7 @@ dmypy.json
 
 # config
 notebook.cfg
+
+# json and csv
+*.json
+*.csv
